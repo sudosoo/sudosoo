@@ -1,6 +1,5 @@
 ### `🏎️ Do you wanna grow with me??` 
-![profileImages](/profileSudoSoo.png)   
-
+<img src="https://ifh.cc/g/gSW4Dx.png" width="200" height="400"/>
 Hi there - im soo. 
 
 im backend developer using Java and Kotlin
