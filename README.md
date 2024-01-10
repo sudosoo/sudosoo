@@ -9,7 +9,7 @@ Hi there - im soo.
 
 im backend developer using Java and Kotlin
 
-I will grow now and I will grow tomorrow.
+I grow now and I will grow tomorrow
 ##
 ### 🔥 Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/><img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/elastic%20stack-005571?style=flat&logo=elasticstack&logoColor=white"/>
