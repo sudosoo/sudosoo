@@ -1,5 +1,5 @@
 ### `🏎️ Do you wanna grow with me??` 
-![profileImages](/profileSudoSoo.gif)   
+![profileImages](/profileSudoSoo.png)   
 
 Hi there - im soo. 
 
