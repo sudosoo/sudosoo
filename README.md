@@ -16,4 +16,4 @@ I grow now and I will grow tomorrow
 <br/>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/><img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sudosoo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="sudoSoo's github stats" /></a>
