@@ -1,17 +1,8 @@
 import fs from 'fs';
+import dayjs from 'dayjs';
 import Parser from 'rss-parser';
-
-let dayjs;
-try {
-    dayjs = (await import('dayjs')).default;
-} catch (err) {
-    console.error('Failed to load dayjs:', err);
-    process.exit(1);
-}
-
-import timezone from 'dayjs/plugin/timezone';
-import utc from 'dayjs/plugin/utc';
-
+import timezone from 'dayjs/plugin/timezone.js'; 
+import utc from 'dayjs/plugin/utc.js';           
 dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.tz.setDefault('Asia/Seoul');
@@ -35,7 +26,6 @@ const parser = new Parser({
         // 피드 목록
         const feed = await parser.parseURL("https://soobysu.tistory.com/rss");
 
-        // 최신 NUM_POSTS 개의 글의 제목과 링크를 가져온 후 text에 추가
         for (let i = 0; i < Math.min(NUM_POSTS, feed.items.length); i++) {
             const { title, link, pubDate } = feed.items[i];
             console.log(`${i + 1}번째 게시물`);
@@ -47,7 +37,6 @@ const parser = new Parser({
             text += `Date: ${date}</br></br>`;
         }
 
-        // README.md 파일 작성
         fs.writeFileSync("README.md", text, "utf8");
         console.log("업데이트 완료");
 
