@@ -3,16 +3,18 @@ import dayjs from 'dayjs';
 import Parser from 'rss-parser';
 import timezone from 'dayjs/plugin/timezone.js'; 
 import utc from 'dayjs/plugin/utc.js';           
+
 dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.tz.setDefault('Asia/Seoul');
 
-const NUM_POSTS = 5; // 최신 글의 수
+const NUM_POSTS = 5;
+const readmePath = "README.md";
 
-let text = `
-##
+let readmeContent = fs.readFileSync(readmePath, "utf8");
+
+let latestPosts = `
 ### 🔥 Tech Blog
-
 `;
 
 const parser = new Parser({
@@ -23,7 +25,6 @@ const parser = new Parser({
 
 (async () => {
     try {
-        // 피드 목록
         const feed = await parser.parseURL("https://soobysu.tistory.com/rss");
 
         for (let i = 0; i < Math.min(NUM_POSTS, feed.items.length); i++) {
@@ -33,12 +34,23 @@ const parser = new Parser({
             console.log(`추가될 링크: ${link}`);
 
             const date = dayjs(pubDate).tz("Asia/Seoul").format("YYYY.MM.DD HH:mm");
-            text += `<a href="${link}">${title}</a></br>`;
-            text += `Date: ${date}</br></br>`;
+            latestPosts += `<a href="${link}">${title}</a></br>`;
+            latestPosts += `Date: ${date}</br></br>`;
         }
 
-        fs.writeFileSync("README.md", text, "utf8");
-        console.log("업데이트 완료");
+        const updatedReadmeContent = readmeContent.includes("### 🔥 Tech Blog")
+            ? readmeContent.replace(
+                /### 🔥 Tech Blog[\s\S]*?(?=\n\n## |\n$)/,
+                latestPosts
+              )
+            : readmeContent + '\n' + latestPosts;
+        
+        if (updatedReadmeContent !== readmeContent) {
+            fs.writeFileSync(readmePath, updatedReadmeContent, "utf8");
+            console.log("README.md 업데이트 완료");
+        } else {
+            console.log("새로운 블로그 포스트가 없습니다. README.md 파일이 업데이트되지 않았습니다.");
+        }
 
     } catch (error) {
         console.error("오류 발생:", error);
