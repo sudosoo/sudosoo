@@ -1,0 +1,17 @@
+{
+  "name": "sudosoo",
+  "version": "1.0.0",
+  "description": "<img src=\"https://ifh.cc/g/gSW4Dx.png\" width=\"200\" height=\"200\"  align='right'/>\r <a href=\"https://soobysu.tistory.com/\"><img src=\"https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://soobysu.tistory.com/\"/></a>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+      "start": "node readmeUpdate.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
