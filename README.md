@@ -12,7 +12,14 @@ im backend developer using Java and Kotlin
 I grow now and I will grow tomorrow
 ##
 ### 🎲 This is my killer Shot
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/><img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/elastic%20stack-005571?style=flat&logo=elasticstack&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/><img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
+<a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sudosoo&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&icon_color=ffffff&bg_color=00000000&text_bold=true&title_color=ffffff" alt="sudosoo's github stats" /></a>
+<a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosoo&layout=compact&hide_border=true&title_color=ffffff&bg_color=00000000" /></a> 
+
+🔥 Tech Blog
 - [[IntelliJ] 윈도우에서 맥os 키 매핑](https://soobysu.tistory.com/173)
 - [[NAS] 시놀로지 Nas 도메인 설정](https://soobysu.tistory.com/172)
 - [[Docker] 이미 생성된 컨테이너의 포트 바꾸기](https://soobysu.tistory.com/171)
