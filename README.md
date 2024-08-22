@@ -18,3 +18,11 @@ I grow now and I will grow tomorrow
 
 <a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sudosoo&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&icon_color=ffffff&bg_color=00000000&text_bold=true&title_color=ffffff" alt="sudosoo's github stats" /></a>
 <a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosoo&layout=compact&hide_border=true&title_color=ffffff&bg_color=00000000" /></a> 
+##
+### 🎲 This is my killer Shot
+
+- [[IntelliJ] 윈도우에서 맥os 키 매핑](https://soobysu.tistory.com/173)
+- [[NAS] 시놀로지 Nas 도메인 설정](https://soobysu.tistory.com/172)
+- [[Docker] 이미 생성된 컨테이너의 포트 바꾸기](https://soobysu.tistory.com/171)
+- [[오류노트] Mixed Content: The page at ~](https://soobysu.tistory.com/170)
+- [[DB] 커버링 인덱스](https://soobysu.tistory.com/169)
