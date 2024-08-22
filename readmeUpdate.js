@@ -1,41 +1,43 @@
-import { readFileSync, writeFileSync } from "node:fs";
-import Parser from "rss-parser";
+const fs = require("fs");
+const dayjs = require("dayjs");
+const Parser = require("rss-parser");
+const timezone = require("dayjs/plugin/timezone");
+const utc = require("dayjs/plugin/utc");
+dayjs.extend(utc);
+dayjs.extend(timezone);
+dayjs.tz.setDefault("Asia/Seoul");
 
-// 기존 README.md 파일 읽기
-const readmePath = "README.md";
-let readmeContent = readFileSync(readmePath, "utf8");
+let text = `
+##
+### 🔥 Tech Blog
+`;
 
-// RSS 파서 생성
 const parser = new Parser({
     headers: {
         Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
     },
 });
 
-// 최신 블로그 포스트 추가하는 함수
 (async () => {
-    // RSS 피드 가져오기
-    const feed = await parser.parseURL("https://soobysu.tistory.com/rss"); // 수정
+    // 피드 목록
+    const feed = await parser.parseURL("https://soobysu.tistory.com/rss");
 
-    // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-    let latestPosts = "##\n### 🎲 This is my killer Shot\n\n";
-    for (let i = 0; i < 5 && i < feed.items.length; i++) {
-        const { title, link } = feed.items[i];
-        latestPosts += `- [${title}](${link})\n`;
+    // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
+    for (let i = 0; i < 5; i++) {
+        const { title, link, pubDate } = feed.items[i];
+        console.log(`${i + 1}번째 게시물`);
+        console.log(`추가될 제목: ${title}`);
+        console.log(`추가될 링크: ${link}`);
+
+        const date = dayjs(pubDate).add(9, "hours").format("YYYY.MM.DD HH:mm");
+        text += `<a href=${link}>${title}</a></br>`;
+        text += `Date: ${date}</br></br>`;
     }
 
-    // 기존 README.md에 최신 블로그 포스트 추가
-    const newReadmeContent = readmeContent.includes("##\n### 🎲 This is my killer Shot")
-        ? readmeContent.replace(
-            /##\n### 🎲 This is my killer Shot[\s\S]*?(?=\n\n## |\n$)/,
-            latestPosts
-        )
-        : readmeContent + latestPosts;
+    // README.md 파일 작성
+    fs.writeFileSync("README.md", text, "utf8", (e) => {
+        console.log(e);
+    });
 
-    if (newReadmeContent !== readmeContent) {
-        writeFileSync(readmePath, newReadmeContent, "utf8");
-        console.log("README.md 업데이트 완료");
-    } else {
-        console.log("새로운 블로그 포스트가 없습니다. README.md 파일이 업데이트되지 않았습니다.");
-    }
+    console.log("업데이트 완료");
 })();
