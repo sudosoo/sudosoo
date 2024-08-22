@@ -1,11 +1,12 @@
-const fs = require("fs");
-const dayjs = require("dayjs");
-const Parser = require("rss-parser");
-const timezone = require("dayjs/plugin/timezone");
-const utc = require("dayjs/plugin/utc");
+import fs from 'fs';
+import dayjs from 'dayjs';
+import Parser from 'rss-parser';
+import timezone from 'dayjs/plugin/timezone';
+import utc from 'dayjs/plugin/utc';
+
 dayjs.extend(utc);
 dayjs.extend(timezone);
-dayjs.tz.setDefault("Asia/Seoul");
+dayjs.tz.setDefault('Asia/Seoul');
 
 let text = `
 ##
