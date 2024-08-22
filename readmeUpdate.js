@@ -1,6 +1,14 @@
 import fs from 'fs';
-import dayjs from 'dayjs';
 import Parser from 'rss-parser';
+
+let dayjs;
+try {
+    dayjs = (await import('dayjs')).default;
+} catch (err) {
+    console.error('Failed to load dayjs:', err);
+    process.exit(1);
+}
+
 import timezone from 'dayjs/plugin/timezone';
 import utc from 'dayjs/plugin/utc';
 
