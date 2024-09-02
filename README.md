@@ -270,5 +270,6 @@ I grow now and I will grow tomorrow
 
 
 
+
 ### 🔥 Tech Blog
 <a href="https://soobysu.tistory.com/176">[Spring Batch] 반복  오류 제어</a></br>Date: 2024.09.01 20:04</br></br><a href="https://soobysu.tistory.com/175">[Mac] 맥북 오른쪽 커맨드키(command⌘) -&gt; 한영키로 바꾸기</a></br>Date: 2024.08.24 12:24</br></br><a href="https://soobysu.tistory.com/174">[오류노트] byte[] 무분별 하게 사용하지 말자</a></br>Date: 2024.08.23 19:42</br></br><a href="https://soobysu.tistory.com/173">[IntelliJ] 윈도우에서 맥os 키 매핑</a></br>Date: 2024.08.22 14:58</br></br><a href="https://soobysu.tistory.com/172">[NAS] 시놀로지 Nas 도메인 설정</a></br>Date: 2024.08.20 16:48</br></br>
