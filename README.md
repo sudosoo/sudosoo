@@ -1347,5 +1347,6 @@ I grow now and I will grow tomorrow
 
 
 
+
 ### 🔥 Tech Blog
 <a href="https://soobysu.tistory.com/182">[ubuntu] 우분투 내 맘대로 설정들</a></br>Date: 2024.10.17 13:34</br></br><a href="https://soobysu.tistory.com/181">[aws] S3 bucket 버킷 복제 하기 for macOS</a></br>Date: 2024.10.17 12:27</br></br><a href="https://soobysu.tistory.com/180">[Kafka] 자주 쓰는 명령어</a></br>Date: 2024.10.02 16:06</br></br><a href="https://soobysu.tistory.com/179">[오류노트] 윈도우 WSL 도커 컨테이너 Kafka 외부 접속</a></br>Date: 2024.09.26 19:03</br></br><a href="https://soobysu.tistory.com/178">[오류노트] 실패한 요청을 재시도 하지 말자</a></br>Date: 2024.09.05 19:49</br></br>
