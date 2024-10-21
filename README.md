@@ -1401,5 +1401,6 @@ I grow now and I will grow tomorrow
 
 
 
+
 ### 🔥 Tech Blog
-<a href="https://soobysu.tistory.com/186">[CICD] github Actions + S3 + ec2 무중단 배포 for Spring (3)</a></br>Date: 2024.10.21 13:59</br></br><a href="https://soobysu.tistory.com/185">[CICD] github Actions + S3 + ec2 무중단 배포 for Spring (2)</a></br>Date: 2024.10.20 13:47</br></br><a href="https://soobysu.tistory.com/184">[CICD] github Actions + S3 + ec2 무중단 배포 for Spring (1)</a></br>Date: 2024.10.20 12:59</br></br><a href="https://soobysu.tistory.com/183">[오류노트] github Actions / ssh: unable to authenticate</a></br>Date: 2024.10.19 15:27</br></br><a href="https://soobysu.tistory.com/182">[ubuntu] 우분투 내 맘대로 설정들</a></br>Date: 2024.10.17 13:34</br></br>
+<a href="https://soobysu.tistory.com/187">[AWS] swap 메모리 설정하기</a></br>Date: 2024.10.21 16:47</br></br><a href="https://soobysu.tistory.com/186">[CICD] github Actions + S3 + ec2 무중단 배포 for Spring (3)</a></br>Date: 2024.10.21 13:59</br></br><a href="https://soobysu.tistory.com/185">[CICD] github Actions + S3 + ec2 무중단 배포 for Spring (2)</a></br>Date: 2024.10.20 13:47</br></br><a href="https://soobysu.tistory.com/184">[CICD] github Actions + S3 + ec2 무중단 배포 for Spring (1)</a></br>Date: 2024.10.20 12:59</br></br><a href="https://soobysu.tistory.com/183">[오류노트] github Actions / ssh: unable to authenticate</a></br>Date: 2024.10.19 15:27</br></br>
