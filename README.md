@@ -1,5 +1,5 @@
 ### `🏎️ Do you wanna grow with me??` 
-<img src="/images/profileSudoSoo.png" width="400" height="400"  align='right'/>
+<img src="/images/profileSudoSoo.png" width="300" height="300"  align='right'/>
 <a href="https://soobysu.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://soobysu.tistory.com/"/></a>
 
 <a href="https://www.notion.so/sudosoo/a7bae94c1caf4239bb49d45f434ab271">
