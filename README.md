@@ -14,16 +14,13 @@ I grow now and I will grow tomorrow
 ### 🎲 This is my killer Shot
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/><img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 
-Data
-
+### 🪣 Data
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/><img src="https://img.shields.io/badge/elastic%20stack-005571?style=flat&logo=elasticstack&logoColor=white"/>
 
-Other
-
+### 🧚🏻‍♂️ Other
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43"/><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px;"/><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/synology-181717?style=flat&logo=synology&logoColor=#B5B5B6"><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/>
 
-Focus
-
+### 🔍 Focus
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
 <br/>
