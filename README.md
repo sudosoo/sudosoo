@@ -16,13 +16,11 @@ I grow now and I will grow tomorrow
 
 ### 🪣 Data
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/><img src="https://img.shields.io/badge/elastic%20stack-005571?style=flat&logo=elasticstack&logoColor=white"/>
-<br/>
 
 ### 🔍 focus
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-<br/>
 
-### 🔍 other
+### 🧚🏻‍♂️ other
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" /><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/>
 <br/>
 
@@ -30,9 +28,6 @@ I grow now and I will grow tomorrow
 <a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosoo&layout=compact&hide_border=true&title_color=ffffff&bg_color=00000000" /></a> 
 
 ##
-
-
-
 
 ### 🔥 Tech Blog
 <a href="https://soobysu.tistory.com/202">[nGrinder] 내 서버는 어느정도 까지 버틸까 (stress Test)</a></br>Date: 2024.11.21 00:11</br></br><a href="https://soobysu.tistory.com/201">[nGrinder] multipart-form 스크립트 작성하기</a></br>Date: 2024.11.19 20:23</br></br><a href="https://soobysu.tistory.com/200">[오류노트] nGrinder 에러모음</a></br>Date: 2024.11.19 20:10</br></br><a href="https://soobysu.tistory.com/199">[오류노트] kotlin HttpMediaTypeNotAcceptableException</a></br>Date: 2024.11.19 14:55</br></br><a href="https://soobysu.tistory.com/198">[Infra] ngrinder 부하 테스트 도구</a></br>Date: 2024.11.18 17:28</br></br>
