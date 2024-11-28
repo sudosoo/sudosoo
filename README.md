@@ -17,10 +17,10 @@ I grow now and I will grow tomorrow
 ### 🪣 Data
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/><img src="https://img.shields.io/badge/elastic%20stack-005571?style=flat&logo=elasticstack&logoColor=white"/>
 
-### 🔍 focus
+### 🔍 Focus
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
-### 🧚🏻‍♂️ other
+### 🧚🏻‍♂️ Other
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" /><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/>
 <br/>
 
