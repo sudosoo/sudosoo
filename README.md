@@ -21,15 +21,13 @@ I grow now and I will grow tomorrow
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
 ### 🧚🏻‍♂️ Other
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" /><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=ffffff">
-<br/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" /><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=ffffff"><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/>
 
+<br/>
 <a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sudosoo&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&icon_color=ffffff&bg_color=00000000&text_bold=true&title_color=ffffff" alt="sudosoo's github stats" /></a>
 <a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosoo&layout=compact&hide_border=true&title_color=ffffff&bg_color=00000000" /></a> 
 
 ##
-
 
 
 
