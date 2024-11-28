@@ -20,7 +20,7 @@ I grow now and I will grow tomorrow
 ### 🧚🏻‍♂️ Other
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43"/><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px;"/><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/synology-181717?style=flat&logo=synology&logoColor=#B5B5B6"><img src="https://img.shields.io/badge/jenkins-000000?style=flat&logo=jenkins&logoColor=white"/>
 
-### 🔍 Focus
+🔍 Focus
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
 <br/>
