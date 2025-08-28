@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dayjs": "^1.11.14",
+    "dayjs": "^1.11.15",
     "rss-parser": "^3.13.0"
   }
 }
