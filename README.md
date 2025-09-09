@@ -6586,5 +6586,6 @@ I grow now and I will grow tomorrow
 
 
 
+
 ### 🔥 Tech Blog
 <a href="https://soobysu.tistory.com/244">[오류노트] firebase - 이 서비스 계정에서는 키를 만들 수 없습니다. 조직 정책에 따라 서비스 계정 키 생성이 제한되는지 확인하세요.</a></br>Date: 2025.09.09 10:24</br></br><a href="https://soobysu.tistory.com/243">[Spring] itemReader 에서 ReadOnly DB 읽기</a></br>Date: 2025.09.05 17:52</br></br><a href="https://soobysu.tistory.com/242">[오류노트] expo eas versionCode 안올라감 ㅜ</a></br>Date: 2025.09.03 09:59</br></br><a href="https://soobysu.tistory.com/241">[오류노트] React native FAILED: build.ninja</a></br>Date: 2025.09.02 12:50</br></br><a href="https://soobysu.tistory.com/240">[오류노트] elasticsearch LocalDateTime 파싱 에러</a></br>Date: 2025.08.29 13:32</br></br>
