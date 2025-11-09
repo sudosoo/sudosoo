@@ -7987,5 +7987,6 @@ I grow now and I will grow tomorrow
 
 
 
+
 ### 🔥 Tech Blog
 <a href="https://soobysu.tistory.com/247">[infra] Monitoring 구축의 여정...</a></br>Date: 2025.11.07 17:45</br></br><a href="https://soobysu.tistory.com/246">[spring] chat gpt api 연동</a></br>Date: 2025.09.18 18:43</br></br><a href="https://soobysu.tistory.com/245">[App]Expo update (code push)</a></br>Date: 2025.09.12 17:40</br></br><a href="https://soobysu.tistory.com/244">[오류노트] firebase - 이 서비스 계정에서는 키를 만들 수 없습니다. 조직 정책에 따라 서비스 계정 키 생성이 제한되는지 확인하세요.</a></br>Date: 2025.09.09 10:24</br></br><a href="https://soobysu.tistory.com/243">[Spring] itemReader 에서 ReadOnly DB 읽기</a></br>Date: 2025.09.05 17:52</br></br>
