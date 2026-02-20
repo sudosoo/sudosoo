@@ -24,8 +24,7 @@ I grow now and I will grow tomorrow
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
 <br/>
-<a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sudosoo&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&icon_color=ffffff&bg_color=00000000&text_bold=true&title_color=ffffff" alt="sudosoo's github stats" /></a>
-<a href="https://github.com/sudosoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosoo&layout=compact&hide_border=true&title_color=ffffff&bg_color=00000000" /></a> 
+[![Soooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudosoo)](https://github.com/sudosoo/github-readme-stats)
 
 ##
 
