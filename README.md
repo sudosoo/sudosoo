@@ -24,8 +24,11 @@ I grow now and I will grow tomorrow
 <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
 
 <br/>
+
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
+
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
