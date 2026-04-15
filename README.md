@@ -25,15 +25,9 @@ I grow now and I will grow tomorrow
 
 <br/>
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sudosu&show_icons=true&theme=transparent)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sudosu&show_icons=true&theme=macos_dark)
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-
-
-
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudosu&layout=compact&hide=css,html&theme=macos_dark)
 
 
 
