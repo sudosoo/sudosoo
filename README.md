@@ -25,7 +25,7 @@ I grow now and I will grow tomorrow
 
 <br/>
 
-![antidote's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sudosoo&show_icons=true&theme=macos_dark)
+![sudosoo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sudosoo&show_icons=true&theme=macos_dark)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudosoo&layout=compact&hide=html,css&theme=macos_dark)
 
