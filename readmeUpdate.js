@@ -13,9 +13,7 @@ const readmePath = "README.md";
 
 let readmeContent = fs.readFileSync(readmePath, "utf8");
 
-let latestPosts = `
-### 🔥 Tech Blog
-`;
+let latestPosts = `### 🔥 Tech Blog\n`;
 
 const parser = new Parser({
     headers: {
@@ -40,10 +38,10 @@ const parser = new Parser({
 
         const updatedReadmeContent = readmeContent.includes("### 🔥 Tech Blog")
             ? readmeContent.replace(
-                /### 🔥 Tech Blog[\s\S]*?(?=\n\n## |\n$)/,
-                latestPosts
+                /\n*### 🔥 Tech Blog[\s\S]*?(?=\n\n## |\n$)/,
+                "\n\n" + latestPosts
               )
-            : readmeContent + '\n' + latestPosts;
+            : readmeContent + "\n\n" + latestPosts;
         
         if (updatedReadmeContent !== readmeContent) {
             fs.writeFileSync(readmePath, updatedReadmeContent, "utf8");
